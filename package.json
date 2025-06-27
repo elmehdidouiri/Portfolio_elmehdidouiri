@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --max_old_space_size=4096",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -23,7 +23,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+    "maximumFileSizeToCacheInBytes": 6000000
   },
   "browserslist": {
     "production": [
