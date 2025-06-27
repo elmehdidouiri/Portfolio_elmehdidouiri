@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "AgroDistrib – Application de Gestion de Distribution de Produits Laitiers",
+    "description": "Solution logicielle complète dédiée à la gestion de la distribution des produits laitiers. Interface web (React.js), application mobile Android (Java), backend Spring Boot, base de données MySQL. Gestion produits, commandes, stocks, interface mobile, synchronisation temps réel.",
+    "technologies": ["Spring Boot", "Hibernate", "REST API", "MySQL", "React.js", "Android (Java)", "Java"],
+    "githubUrl": "https://github.com/elmehdidouiri/AgroDistrib_Front",
+    "githubUrl2": "https://github.com/elmehdidouiri/AgroDistrib-Back",
+    "githubUrl3": "https://github.com/elmehdidouiri/AgroDistribV2",
+    "category": "Gestion",
+    "image": "/assets/agrodistrib/agrodistrib.png"
+  },
+  {
+    "id": 2,
+    "title": "Screndy – Healthinu (Hackathon ENSA Al Hoceima – 3ᵉ place)",
+    "description": "Application mobile innovante permettant d'automatiser le processus de consultation médicale à distance.",
+    "technologies": ["Flutter", "Firebase", "Node.js"],
+    "githubUrl": "",
+    "category": "Santé",
+    "image": "/assets/healthinu/healthinu.png"
+  },
+  {
+    "id": 3,
+    "title": "Application de Gestion du Courrier Administratif",
+    "description": "Logiciel de bureau permettant de suivre le courrier entrant et sortant au sein d'une administration publique. Réalisé lors d'un stage à l'Académie Régionale d'Éducation de Tanger-Tétouan-Al Hoceima.",
+    "technologies": ["VB.NET", "SQL Server"],
+    "githubUrl": "https://github.com/elmehdidouiri/gestioncourriers",
+    "category": "Desktop"
+  },
+  {
+    "id": 4,
+    "title": "JitCareer – Plateforme de Gestion des Candidatures",
+    "description": "Application full-stack dédiée à la gestion des candidatures pour recruteurs et candidats. Upload de CVs, workflow dynamique, statuts personnalisés, intégration Azure Blob Storage, packaging JSZip.",
+    "technologies": ["Spring Boot", "REST API", "Angular", "Angular Material", "Tailwind CSS", "Azure Blob Storage", "JSZip"],
+    "githubUrl": "",
+    "category": "Web",
+    "image": "/assets/jitcareer/jitcareer.png"
+  },
+  {
+    "id": 5,
+    "title": "SmartEventAPI – API de Gestion d'Événements",
+    "description": "API REST .NET pour gérer des événements, utilisateurs et inscriptions. CRUD, JWT, Swagger, Entity Framework Core, SQL Server.",
+    "technologies": ["ASP.NET Core", "Entity Framework Core", "SQL Server", "Swagger", "JWT", "ASP.NET Identity"],
+    "githubUrl": "",
+    "category": "API"
+  },
+  {
+    "id": 6,
+    "title": "TopMovies – Application de Notation et Recherche de Films",
+    "description": "Application web Django permettant de consulter, noter, commenter et rechercher des films populaires. Recherche avancée, interface admin, MySQL.",
+    "technologies": ["Django", "Python", "HTML", "CSS", "Bootstrap", "MySQL"],
+    "githubUrl": "https://github.com/elmehdidouiri/TopMovies",
+    "category": "Web"
+  }
+] 

@@ -1,0 +1,21 @@
+{
+  "name": "El Mehdi Douiri",
+  "role": "Full stack et développeur de tous les logiciels desktop, MAUI, mobile, web",
+  "tagline": "Passionné par la tech, le code et l'innovation",
+  "location": "Tétouan, Maroc (disponible partout au Maroc)",
+  "email": "elmehdidouiri99@gmail.com",
+  "phone": "0614215996",
+  "about": {
+    "summary": "Cycle d'ingénierie en informatique et réseaux à l'EMSI Tanger, passionné par le développement logiciel, les architectures cloud et la cybersécurité.",
+    "ambitions": "Je souhaite mettre mes compétences en développement informatique et en ingénierie réseau au service de projets innovants, tout en continuant à apprendre et à évoluer dans un environnement stimulant.",
+    "passion": "Passionné par les nouvelles technologies, je prends plaisir à coder, résoudre des problèmes complexes et explorer l'univers de l'IoT, où l'innovation et la créativité prennent tout leur sens."
+  },
+  "social": {
+    "github": "https://github.com/elmehdidouiri",
+    "linkedin": "https://www.linkedin.com/in/el-mehdi-douiri-b4901a261/"
+  },
+  "cv": {
+    "url": "/cv-el-mehdi-douiri.pdf",
+    "downloadText": "Télécharger mon CV"
+  }
+} 

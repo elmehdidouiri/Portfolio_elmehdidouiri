@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "year": "2024–2025 (en cours)",
+    "title": "Cycle d'ingénierie en informatique et réseaux",
+    "institution": "EMSI Tanger",
+    "description": "Formation d'ingénieur axée sur les systèmes informatiques, les réseaux, la cybersécurité et les architectures logicielles.",
+    "type": "Ingénieur"
+  },
+  {
+    "id": 2,
+    "year": "2022–2023",
+    "title": "Licence Professionnelle en Génie Informatique",
+    "institution": "EST Kénitra",
+    "description": "Acquisition de compétences en développement logiciel, conception de systèmes d'information et gestion de projets informatiques.",
+    "type": "Licence"
+  },
+  {
+    "id": 3,
+    "year": "2020–2022",
+    "title": "BTS en Développement des Systèmes d'Information",
+    "institution": "Institut spécialisé à Al Hoceima",
+    "description": "Formation technique approfondie en programmation, bases de données, génie logiciel et maintenance des systèmes.",
+    "type": "BTS"
+  },
+  {
+    "id": 4,
+    "year": "2020-2021",
+    "title": "Bac Sciences Physiques",
+    "institution": "Lycée",
+    "description": "Baccalauréat en Sciences Physiques",
+    "type": "Bac"
+  }
+] 

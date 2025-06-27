@@ -1,0 +1,44 @@
+{
+  "languages": [
+    { "name": "Java", "icon": "SiJava" },
+    { "name": "Python", "icon": "SiPython" },
+    { "name": "VB.NET", "icon": "SiDotnet" },
+    { "name": "C#", "icon": "SiCsharp" },
+    { "name": "JavaScript", "icon": "SiJavascript" },
+    { "name": "TypeScript", "icon": "SiTypescript" },
+    { "name": "HTML/CSS", "icon": "SiHtml5" }
+  ],
+  "frameworks": [
+    { "name": "Spring Boot", "icon": "SiSpring" },
+    { "name": "Hibernate", "icon": "SiHibernate" },
+    { "name": "React.js", "icon": "SiReact" },
+    { "name": "Angular", "icon": "SiAngular" },
+    { "name": "Angular Material", "icon": "SiAngular" },
+    { "name": "Bootstrap", "icon": "SiBootstrap" },
+    { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+    { "name": "Flutter", "icon": "SiFlutter" },
+    { "name": "Django", "icon": "SiDjango" },
+    { "name": "ASP.NET Core", "icon": "SiDotnet" },
+    { "name": "Entity Framework Core", "icon": "SiDotnet" }
+  ],
+  "databases": [
+    { "name": "MySQL", "icon": "SiMysql" },
+    { "name": "SQL Server", "icon": "SiMicrosoftsqlserver" },
+    { "name": "MongoDB", "icon": "SiMongodb" },
+    { "name": "Firebase", "icon": "SiFirebase" }
+  ],
+  "tools": [
+    { "name": "Git", "icon": "SiGit" },
+    { "name": "GitHub", "icon": "SiGithub" },
+    { "name": "Azure Blob Storage", "icon": "SiMicrosoftazure" },
+    { "name": "REST API", "icon": "SiOpenapiinitiative" },
+    { "name": "Swagger", "icon": "SiSwagger" },
+    { "name": "JSZip", "icon": "SiJavascript" },
+    { "name": "JWT (JSON Web Token)", "icon": "SiJsonwebtokens" },
+    { "name": "ASP.NET Identity", "icon": "SiDotnet" }
+  ],
+  "mobile": [
+    { "name": "Android (Java)", "icon": "SiAndroid" },
+    { "name": "Flutter", "icon": "SiFlutter" }
+  ]
+} 
