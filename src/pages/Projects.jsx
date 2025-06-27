@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Github, ExternalLink, Tag, Calendar } from 'lucide-react';
 import projectsData from '../data/projects.json';
 

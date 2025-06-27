@@ -12,14 +12,13 @@ const Home = () => {
   const [isDeleting, setIsDeleting] = useState(false);
   const [showCursor, setShowCursor] = useState(true);
 
-  const typewriterTexts = [
-    "Développeur Full Stack",
-    "Étudiant Ingénieur",
-    "Passionné par la tech",
-    "Créateur d'applications"
-  ];
-
   useEffect(() => {
+    const typewriterTexts = [
+      "Développeur Full Stack",
+      "Étudiant Ingénieur",
+      "Passionné par la tech",
+      "Créateur d'applications"
+    ];
     const typeSpeed = isDeleting ? 50 : 100;
     const deleteSpeed = 50;
     const pauseTime = 2000;
@@ -43,7 +42,7 @@ const Home = () => {
 
     const timer = setTimeout(typewriter, isDeleting ? deleteSpeed : typeSpeed);
     return () => clearTimeout(timer);
-  }, [text, currentIndex, isDeleting, typewriterTexts]);
+  }, [text, currentIndex, isDeleting]);
 
   useEffect(() => {
     const cursorTimer = setInterval(() => {
