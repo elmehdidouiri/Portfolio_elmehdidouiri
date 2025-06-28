@@ -32,9 +32,7 @@ const Footer = () => {
           {/* Personal Info */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">ED</span>
-              </div>
+              <img src="/D.png" alt="Logo El Mehdi Douiri" className="w-12 h-12 object-contain rounded-lg shadow" />
               <span className="text-xl font-bold text-gray-900 dark:text-white">
                 El Mehdi Douiri
               </span>

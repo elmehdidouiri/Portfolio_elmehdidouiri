@@ -23,10 +23,8 @@ const About = () => {
             {/* Profile Section */}
             <div className="bg-white/70 dark:bg-gray-800/70 backdrop-blur-md rounded-2xl p-8 shadow-xl">
               <div className="flex items-center space-x-4 mb-6">
-                <div className="w-16 h-16 bg-gradient-to-br from-blue-600 to-purple-600 rounded-full flex items-center justify-center shadow-lg">
-                  <span className="text-white text-2xl font-bold">
-                    {personalData.name.split(' ').map(name => name[0]).join('')}
-                  </span>
+                <div className="w-16 h-16 rounded-full flex items-center justify-center shadow-lg bg-transparent">
+                  <img src="/D.png" alt="Logo El Mehdi Douiri" className="w-full h-full object-contain rounded-full" />
                 </div>
                 <div>
                   <h2 className="text-2xl font-bold text-gray-900 dark:text-white">

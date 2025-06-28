@@ -134,10 +134,8 @@ const Home = () => {
             {/* Right Column - Profile Image */}
             <div className="flex justify-center lg:justify-end">
               <div className="relative">
-                <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center shadow-2xl animate-float">
-                  <div className="text-white text-6xl font-bold">
-                    {personalData.name.split(' ').map(name => name[0]).join('')}
-                  </div>
+                <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center shadow-2xl animate-float overflow-hidden">
+                  <img src="/D.png" alt="Logo El Mehdi Douiri" className="w-full h-full object-contain" />
                 </div>
                 <div className="absolute -top-4 -right-4 w-20 h-20 bg-lime-400 rounded-full opacity-20 animate-pulse"></div>
                 <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-blue-400 rounded-full opacity-20 animate-pulse delay-1000"></div>

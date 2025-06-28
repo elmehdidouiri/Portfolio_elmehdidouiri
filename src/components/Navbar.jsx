@@ -41,6 +41,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <a href="#home" onClick={e => handleNavClick(e, 'home')} className="flex items-center space-x-2">
+            <img src="/D.png" alt="Logo El Mehdi Douiri" className="w-10 h-10 object-contain rounded-lg shadow" />
             <span className="text-xl font-bold text-gray-900 dark:text-white">
               El Mehdi Douiri
             </span>
